@@ -1,0 +1,10 @@
+poetry
+tox
+pre-commit
+pydoit
+pypiserver
+robotframework
+robotframework-robocop
+robotframework-tidy
+robotframework-browser
+robotframework-seleniumlibrary
