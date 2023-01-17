@@ -1,0 +1,11 @@
+stages:
+ - test
+ - publish
+
+default:
+  tags:
+    - jedi
+
+echo:
+  script:
+    - write-host "hello world"
